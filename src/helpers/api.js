@@ -3,7 +3,7 @@ import axios from "axios";
 
 // define backend API endpoint (URL)
 // const backendUrl = "http://localhost:3000/api/vocabs/"
-const backendUrl = "https://be-vocab.onrender.com/vocabs/"
+const backendUrl = "https://be-vocab.onrender.com/api/vocabs/"
 
 // declare function to call API
 export const viewAllVocabs = async()=>{
